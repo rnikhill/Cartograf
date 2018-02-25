@@ -1,4 +1,4 @@
-package com.cartografreact;
+package com.cartograf;
 
 import android.app.Application;
 
